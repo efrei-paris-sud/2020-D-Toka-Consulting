@@ -1,15 +1,18 @@
 
 # Lab 2
-The Lab was about .... 
-  
+
+This lab was about learning the different protocols such as the I2C protocol and UART protocol. These protocols allows to device to communicate with each other.
+
 ## Exercises
-  - [Exercise 1](ex1)
-  - [Exercise 2](ex2)
-  
+
+ [Exercice 1](ex1) : UART Protocol
+
+ [Exercice 2](ex2) : 
+
+ [Exercice 3](ex3) :
+
+
 ## Issues
-  We encountered some issues as ....
-  1. ...
-  2. ...
-  3. ...
-  
+
+We encountered some issues at : We couldn't finish the lab as we wanted to because there were 
   
