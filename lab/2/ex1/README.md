@@ -25,12 +25,12 @@ void loop(){
   byte b = Serial.read();
   
   if( i != 0)
-  {
+   {
     tone(buzzer, i);
     delay(1000);
     Serial.println("the code has changed");
+   }
   }
- }
 }
 ```
   
