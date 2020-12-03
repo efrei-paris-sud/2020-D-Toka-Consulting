@@ -1,4 +1,4 @@
-![tokalogo](assets/toka.png)
+![tokalogo](assets/toka.PNG)
 
 # Toka Technologies
 Members: 
