@@ -10,7 +10,7 @@ of electronics hardware, to support designers and artists ready to move from exp
 
 ## Schematic
 
-![schema_ex3](photo1.png)
+![schema_ex3](Capture_schema_ex3.PNG)
 
 - The red cable - **VCC**
 - The blue cable - **GROUND**
