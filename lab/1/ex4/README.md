@@ -1,6 +1,7 @@
 # Exercise 4
 
-In this exercise, we needed to connect a variable resistor (a potentiometer) to our Arduino Board and read its value using one analog input of our Arduino board.
+In this exercise, we needed to connect a variable resistor (a potentiometer) to our Arduino Board and read its value using one analog input of our Arduino board. Depending
+on its value, the LED should change its blink rate.
 
 ## Code
  ```Arduino
@@ -23,17 +24,11 @@ void loop() {
 
 ## Board Image
 
-Turned all the way:
-
 ![photo](photo1.png)
-
-Turned a bit:
-
-![photo](photo2.jpg)
 
 Print results:
 
-![photo](photo3.png)
+![photo](photo2.PNG)
 
 
 ## Issues
