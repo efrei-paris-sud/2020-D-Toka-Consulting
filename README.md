@@ -1,4 +1,6 @@
-![tokalogo](assets/toka.PNG)
+<p align="center">
+  <img srx="assets/toka.PNG" />
+</p>
 
 # Toka Technologies
 Members: 
