@@ -1,4 +1,6 @@
-# Team Name: Bla Bla
+![tokalogo](assets/toka.png)
+
+# Toka Technologies
 Members: 
 |![member1](assets/lucas.png) |![member2](assets/thomas.png)  |
 |--|--|
