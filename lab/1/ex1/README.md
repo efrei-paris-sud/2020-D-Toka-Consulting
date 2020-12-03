@@ -1,27 +1,12 @@
 
+# Exercise 1
 
-# Exercise 1 
-A breif description of the goal of this exercise.
+In this exercise, we needed to connect a LED to our arduino board and make it turn on.
 
-## Schematic 
-![Test Image](photo.png?raw=true)
-
-## Code
- ```Arduino
-void setup(){
-  ....
-}
-
-void loop(){
-  ....
-}
-```
-  
 ## Board Image
-![Board](Arduino_LED.gif?raw=true)
 
-To make a gif you can use [ezgif](https://ezgif.com/maker).
+![photo](photo.jpg)
+
 ## Issues
-- bla bla
-- bla bla
-- bla bla
+
+No issues.

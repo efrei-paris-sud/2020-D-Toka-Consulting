@@ -1,27 +1,33 @@
 
+# Exercise 2
 
-# Exercise 2 
-A breif description of the goal of this exercise.
-
-## Schematic 
-![Test Image](photo.png?raw=true)
+In this exercise, we needed to connect a LED to the port 4 of our arduino board and make it turn on using code.
 
 ## Code
+
  ```Arduino
-void setup(){
-  ....
+const int led = 4;
+ 
+void setup() {                
+  pinMode(led, OUTPUT);     
 }
+ 
+void loop() {
+  digitalWrite(led, HIGH);     
+  delay(1000);                 
+  digitalWrite(led, LOW);     
+  delay(1000);
+}
+ ```
 
-void loop(){
-  ....
-}
-```
-  
 ## Board Image
-![Board](Arduino_LED.gif?raw=true)
 
-To make a gif you can use [ezgif](https://ezgif.com/maker).
+Blinking LED:
+
+![photo](photo1.png)
+
+![photo](photo2.jpg)
+
 ## Issues
-- bla bla
-- bla bla
-- bla bla
+
+No issues.
