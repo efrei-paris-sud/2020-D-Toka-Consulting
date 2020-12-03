@@ -1,13 +1,14 @@
 # Team Name: Bla Bla
 Members: 
-|![member1](assets/member1.webp?raw=true) |![member2](assets/member2.webp?raw=true)  |
+|![member1](assets/lucas.png) |![member2](assets/thomas.png)  |
 |--|--|
-|  [Member 1](https://github.com/username) <br> a short description of her responsiblity ...| [Member 2 ](https://github.com/username) <br> a short description of his responsiblity ... |
+|  [Lucas Champsaur](https://github.com/LucasEFREI) <br> a short description of her responsiblity ...| [Thomas Damasse](https://github.com/thomas.damasse@efrei.net) <br> a short description of his responsiblity ... |
 
 
 
-# Project Title: bla bla
- **Description**: bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
+# The Infinity Mitten
+ **Description**: Our project consists of a mitten that allows one to control LEDs. By the snap of its fingers and when using the glove, the user of the Infinity Mitten can light up or turn off a LED.
+Several other commands are available when wearing the mitten. 
  
 [Click here for more information about the project](project) 
 
@@ -23,4 +24,3 @@ Please don't forget to update the github repository information too.
 The lab reports are accessible from [this link](lab)
 
 # Refereces:
-[Avatar](https://iconscout.com/icons/avatar) by [Dmitriy Bondarchuk](https://iconscout.com/contributors/dmitriy-bondarchuk)
