@@ -13,8 +13,11 @@ of electronics hardware, to support designers and artists ready to move from exp
 ![schema_ex3](photo1.png)
 
 The red cable - **VCC**
+
 The blue cable - **GROUND**
+
 The yellow cable - **SDA**
+
 The green cable - **SCL**
 
 
