@@ -1,8 +1,9 @@
 <p align="center">
-  <img srx="assets/toka.PNG" />
+  <img src="assets/toka.PNG"/>
 </p>
-
+<p align="center">
 # Toka Technologies
+</p>
 Members: 
 |![member1](assets/lucas.png) |![member2](assets/thomas.png)  |
 |--|--|
