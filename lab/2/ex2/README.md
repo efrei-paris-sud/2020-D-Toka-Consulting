@@ -14,6 +14,8 @@ Like UART communication, I2C only uses two wires to transmit data between device
 **Serial Clock Line(SCL)** - The line that carries the clock signal.
 
 ## Schematic 
-![Test Image](photo.png?raw=true)
+![Arduino_schema](Capture_arduino_lab2.PNG?raw=true)
+
+The I2C pins (SDA and SCL) are the analogs A4 and A5(see at the bottom left of the schema).
 
 
