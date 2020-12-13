@@ -4,6 +4,8 @@ The other library we had to install was the Adafruit GFX Library.
 
 ## Code
 
+Display bitmap:
+
  ```Arduino
 #include <Wire.h>
 #include <Adafruit_GFX.h>
@@ -39,6 +41,9 @@ void loop() {
   display.display();
 }
  ```
+
+Display various forms:
+
  ```Arduino
 #include <Wire.h>
 #include <Adafruit_GFX.h>

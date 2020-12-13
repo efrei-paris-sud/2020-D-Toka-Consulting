@@ -95,7 +95,7 @@ void loop() {
  ```
 ## Board Image 
   
-![photo](photo.pjpg)
+![photo](photo.jpg)
 
 ## Issues
 
