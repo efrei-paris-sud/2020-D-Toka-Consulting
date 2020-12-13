@@ -4,10 +4,6 @@ The purpose of the exercice was to display our team logo picture on the OLED scr
 We used this [website](https://javl.github.io/image2cpp/), to transform our image into bite array.
 
 
-# Exercise 2
-We had to work on the code to create some forms and bitmaps on the OLED.
-The other library we had to install was the Adafruit GFX Library.
-
 ## Code
 
  ```Arduino
