@@ -61,9 +61,9 @@ void loop() {
  ```
 ## Board Image 
   
-![photo1](photo1.pjpg)
+![photo1](photo1.jpg)
 
-![photo2](photo2.pjpg)
+![photo2](photo2.jpg)
 
 ## Issues
 
