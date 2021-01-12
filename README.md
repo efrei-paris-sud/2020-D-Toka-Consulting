@@ -18,7 +18,7 @@ Montage construction
 Write report
 ESP32 server connection
 ESP NOW connection part |
-|  [Thomas Damasse] (https://github.com/thomas.damasse@efrei.net) 
+|  [Thomas Damasse](https://github.com/elthomasso) 
 <br>Make video presentation 
 Make powerpoint presentation
 Research on technologies used
