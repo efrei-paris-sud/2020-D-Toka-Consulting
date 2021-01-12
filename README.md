@@ -31,11 +31,15 @@ For the moment, we just have the proof of concept, so we control two different L
 
 Example Video of the project:
 
-[![Example Video of the project](https://www.youtube.com/watch?v=nQ562t4TxeE&feature=youtu.be)
+![Example Video of the project](https://www.youtube.com/watch?v=nQ562t4TxeE&feature=youtu.be)
 
 
 # Lab Reports
 
 The lab reports are accessible from [this link](lab)
 
-# Refenreces:
+# References:
+
+https://randomnerdtutorials.com/esp-now-one-to-many-esp32-esp8266/
+
+https://randomnerdtutorials.com/esp32-esp-now-wi-fi-web-server/
