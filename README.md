@@ -6,26 +6,18 @@
 Members: 
 |![member1](assets/lucas.png) |![member2](assets/thomas.png)  |
 |--|--|
-|  [Lucas Champsaur](https://github.com/LucasEFREI)
-<br>Implementation of system
-Construction of prototype
-Research on technologies used
-Work on software development
-Make powerpoint presentation
-Make video presentation
+|  [Lucas Champsaur](https://github.com/LucasEFREI) |  [Thomas Damasse](https://github.com/elthomasso) 
+| Implementation of system | Make video presentation 
+| Construction of prototype | Research on technologies used
+| Research on technologies used | Write report
+| Work on software development | Work on software development 
+| Make powerpoint presentation | ESP NOW connection part
+| <br> Make video presentation
 Fritzing to create schematics
 Montage construction
 Write report
 ESP32 server connection
 ESP NOW connection part </br>
-|  [Thomas Damasse](https://github.com/elthomasso) 
-Make video presentation 
-Make powerpoint presentation
-Research on technologies used
-Write report
-Work on software development
-ESP NOW connection part  |
-
 
 
 # The Infinity Glove
@@ -37,7 +29,7 @@ For the moment, we just have the proof of concept, so we control two different L
  
 [Click here for more information about the project](project) 
 
-Example Video of the porject:
+Example Video of the project:
 
 [![Example Video of the porject](https://youtu.be/nQ562t4TxeE )
 
@@ -46,4 +38,4 @@ Example Video of the porject:
 
 The lab reports are accessible from [this link](lab)
 
-# Refereces:
+# Refenreces:
