@@ -19,7 +19,7 @@ Write report
 ESP32 server connection
 ESP NOW connection part |
 |  [Thomas Damasse](https://github.com/elthomasso) 
-<br>Make video presentation 
+Make video presentation 
 Make powerpoint presentation
 Research on technologies used
 Write report
