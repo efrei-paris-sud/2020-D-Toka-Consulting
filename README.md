@@ -31,7 +31,7 @@ For the moment, we just have the proof of concept, so we control two different L
 
 Example Video of the project:
 
-[![Example Video of the porject](https://youtu.be/nQ562t4TxeE )
+[![Example Video of the project](https://www.youtube.com/watch?v=nQ562t4TxeE&feature=youtu.be)
 
 
 # Lab Reports
