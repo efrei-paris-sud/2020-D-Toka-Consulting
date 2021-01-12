@@ -16,7 +16,8 @@ Fritzing to create schematics
 Montage construction
 Write report
 ESP32 server connection
-ESP NOW connection part | [Thomas Damasse] (https://github.com/thomas.damasse@efrei.net) <br> Make video presentation 
+ESP NOW connection part 
+| [Thomas Damasse] (https://github.com/thomas.damasse@efrei.net) <br> Make video presentation 
 Make powerpoint presentation
 Research on technologies used
 Write report
