@@ -17,14 +17,14 @@ Fritzing to create schematics
 Montage construction
 Write report
 ESP32 server connection
-ESP NOW connection part |
+ESP NOW connection part </br>
 |  [Thomas Damasse](https://github.com/elthomasso) 
 Make video presentation 
 Make powerpoint presentation
 Research on technologies used
 Write report
 Work on software development
-ESP NOW connection part </br> |
+ESP NOW connection part  |
 
 
 
