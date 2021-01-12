@@ -6,8 +6,7 @@
 Members: 
 |![member1](assets/lucas.png) |![member2](assets/thomas.png)  |
 |--|--|
-|  [Lucas Champsaur](https://github.com/LucasEFREI) 
-<br> Implementation of system
+|  [Lucas Champsaur](https://github.com/LucasEFREI) <br> Implementation of system
 Construction of prototype
 Research on technologies used
 Work on software development
@@ -18,8 +17,7 @@ Montage construction
 Write report
 ESP32 server connection
 ESP NOW connection part </br>
-| [Thomas Damasse] (https://github.com/thomas.damasse@efrei.net) 
-<br> Make video presentation 
+| [Thomas Damasse] (https://github.com/thomas.damasse@efrei.net) <br> Make video presentation 
 Make powerpoint presentation
 Research on technologies used
 Write report
